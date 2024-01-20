@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329763374959",
+    "project_id": "kishandetails",
+    "storage_bucket": "kishandetails.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329763374959:android:d67f91f64dc2869134ca9a",
+        "android_client_info": {
+          "package_name": "com.suis.plant_disease_detector.plant_disease_detector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA58TvjJNJ0z-98ISG9wfkwxVqayDtDC5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
